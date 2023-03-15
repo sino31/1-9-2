@@ -1,1 +1,2 @@
-### DMM WEBCAMP HTML/CSSの第9章演習課題のコードです。
+###1-9-2
+Code for DMM WEBCAMP HTML/CSS Chapter9 Exercise Assignment
